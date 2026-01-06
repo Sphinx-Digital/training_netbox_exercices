@@ -29,10 +29,5 @@ Créer l’organisation suivante :
 **🏬 Bâtiments & salles**
 
 Pour chaque site :\
-1 bâtiment : Principale\
+1 bâtiment : Principale ( BUILDING A )\
 3 salles : 1 salles serveurs, 1 salles de classes et 1 bureau.
-
-**🗄️ Racks**
-
-Pour chaque salle serveurs :\
-3 racks : R1, R2, R3
