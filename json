@@ -1,0 +1,12 @@
+{
+  "text": "*[NetBox]* {{ event | upper }} — {{ model }}",
+  "attachments": [{
+    "color": "{% if event == 'created' %}good{% elif event == 'deleted' %}danger{% else %}warning{% endif %}",
+    "fields": [
+      {"title": "Objet",       "value": "{{ data.name }}",  "short": true},
+      {"title": "Événement",   "value": "{{ event }}",      "short": true},
+      {"title": "Utilisateur", "value": "{{ username }}",   "short": true},
+      {"title": "Date",        "value": "{{ timestamp }}",  "short": true}
+    ]
+  }]
+}
