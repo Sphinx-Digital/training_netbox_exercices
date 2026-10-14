@@ -12,7 +12,7 @@
 }
 
 channel netbox : https://hooks.slack.com/services/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
-channel 	#affectation-ip : https://hooks.slack.com/services/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
-#create-device : https://hooks.slack.com/services/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
-	#delete-device : https://hooks.slack.com/services/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
+channel 	#affectation-ip : https://hooks.slack.com/services/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
+#create-device : https://hooks.slack.com/services/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
+	#delete-device : https://hooks.slack.com/services/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
 
