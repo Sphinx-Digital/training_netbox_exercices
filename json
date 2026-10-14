@@ -10,3 +10,8 @@
     ]
   }]
 }
+
+channel netbox : https://hooks.slack.com/services/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
+channel 	#affectation-ip : https://hooks.slack.com/services/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
+#create-device : https://hooks.slack.com/services/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
+	#delete-device : https://hooks.slack.com/services/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
